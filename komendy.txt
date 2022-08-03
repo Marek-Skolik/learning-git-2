@@ -1,1 +1,1 @@
-npm run test:html
+html-validate .
